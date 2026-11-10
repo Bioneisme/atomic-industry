@@ -1,0 +1,163 @@
+format = 1
+id = "atomic_industry"
+name = "Atomic Industry"
+version = "1.0.0"
+description = "Nuclear bombs, deep quarries, factories and wayfarer stones, with JEI, Jade and quality-of-life mods."
+authors = ["bioneisme"]
+game = "26.3"
+
+# Additional Lights
+[[mods]]
+id = "additional_lights"
+version = "3.1.4"
+sha256 = "9fc4f2f9e2a259d475202749c269673301da13a9d2ff0cec6346947becaacb83"
+
+# Factory Blocks
+[[mods]]
+id = "factory_blocks"
+version = "1.4.2"
+sha256 = "520ad2ca64d2d4a0711a56f538074be64ab9a19337dae018bfee625e8672e43b"
+
+# ProjectE for Horizon (assets)
+[[mods]]
+id = "projecte"
+version = "0.1.0"
+sha256 = "da08dffc1d021463e43576db233bc79e943aaf4e76a8a1ea37b66aa8ebab883f"
+
+# Voltz (assets)
+[[mods]]
+id = "voltz"
+version = "0.3.0"
+sha256 = "241548ff66203b4587bdbe5f48d04e8ac24b61ffc8773ea6714b1bd494f96c0a"
+
+# Applied Energistics 2
+[[mods]]
+id = "ae2"
+version = "15.4.17"
+sha256 = "d69efc90f11ae6cc455454096d0c097de0d2534fef3e8dcdd8109b12c8f70e17"
+
+# AppleSkin
+[[mods]]
+id = "appleskin"
+version = "0.1.3"
+sha256 = "2dac91d4c4c4ab65684f41a3279c6b27beffa7407e5362b0d7a97c28c07914a6"
+
+# Atlas
+[[mods]]
+id = "atlas"
+version = "0.2.0"
+sha256 = "07c3651728523e349858ef7f575b6336508a8e616a99aef2ef19e9723d1694c3"
+
+# Big Nukes
+[[mods]]
+id = "big_nukes_native"
+version = "0.1.3"
+sha256 = "4ab6679ea3ed08e4c02f8ac5304ca9876a3b185d5461eb12256806a63f574272"
+
+# Blood Particles
+[[mods]]
+id = "blood_particles"
+version = "1.2.0"
+sha256 = "8439959e089453a54c7fdcf996d1575e3ca7327a54de26c13975b66bad6e0d06"
+
+# ContinuityHorizon
+[[mods]]
+id = "connected_textures"
+version = "0.1.7"
+sha256 = "47fd568c4e2969122da80550efd9305b527484168541a6bbea44e1fdff16cab1"
+
+# Deepbore Quarry
+[[mods]]
+id = "deepbore_quarry_native"
+version = "0.1.2"
+sha256 = "41865d8459e679b23d3e71fa05f149ddc429dacac057fb350608ce526a486c17"
+
+# Eating Animation
+[[mods]]
+id = "eatinganimation"
+version = "0.2.0"
+sha256 = "e9df7c923723b3b047e6442529dac057806521d988ab2694c43fdcc3104ecc5f"
+
+# FPS Counter
+[[mods]]
+id = "fps_overlay"
+version = "2.0.0"
+sha256 = "bedb670e2490ce8239906c86eabd3a0c131ef5037b2937607231bdbdba38c171"
+
+# PhysicsModHorizon
+[[mods]]
+id = "horizon_physics"
+version = "0.20.7"
+sha256 = "8eeba82ac0e7755298269fd328679473720a9894cfe10df5c8e3aaf88f59c34c"
+
+# InventoryWizard
+[[mods]]
+id = "inventory_wizard"
+version = "2.3.3"
+sha256 = "03a7c8a528148611e5f309f3d05294a97b6766ca5e3bda9b3f1f79458fe65a42"
+
+# Jade
+[[mods]]
+id = "jade"
+version = "26.3.8"
+sha256 = "eeb74fbcfbe75e568ecebdc82c8091c482e4f929dcb1f4d7390052d2ef8c5da8"
+
+# JEI for Horizon
+[[mods]]
+id = "jei"
+version = "0.2.1"
+sha256 = "d0a840069ff9fb877021829584df72441928a9283feb27df30d244837bc7f2af"
+
+# Mod Menu
+[[mods]]
+id = "mod_menu"
+version = "0.3.5"
+sha256 = "5fef518e6ce7417944ab2621711be013cf7e25fdd6d3b25922876e78f090bfa3"
+
+# Mouse Tricks
+[[mods]]
+id = "mousetricks"
+version = "0.2.0"
+sha256 = "48c60955371963f8e320a9efbe8285bb276d255c29178a8a021e7e2b47535cbe"
+
+# ProjectE for Horizon
+[[mods]]
+id = "projecte_core"
+version = "0.1.0"
+sha256 = "ea0cd9cdb85cb8f3bd9f35a99d7b2c8e4f95ea2c0ba321509be02ee8f4b3df85"
+
+# RightClickHarvest
+[[mods]]
+id = "rightharvest"
+version = "0.1.1"
+sha256 = "2f70f3a5abaca35f1ff8df7b198f0fd616eacaa5229f5113f75935e16f50255b"
+
+# Shulker Box Tooltip
+[[mods]]
+id = "shulkerboxtooltip"
+version = "1.0.1"
+sha256 = "005244f696d9c5214980f554251f6442523768f040a78f505ef8d36090484bba"
+
+# Toggle Sprint
+[[mods]]
+id = "toggle_sprint"
+version = "1.0.0"
+sha256 = "b2a4190f9c19adbceae4a639342b7630bfc3047339eabf57673b7807db5edc6a"
+
+# Voltz
+[[mods]]
+id = "voltz_core"
+version = "0.3.0"
+sha256 = "07671d2d8267871a88c4a78ebe890b7b3f63210345f1d889c7f348d317e8d5cf"
+
+# Wayfarer Stones
+[[mods]]
+id = "wayfarer_stones_native"
+version = "0.6.3"
+sha256 = "56cf931b48d22b55964db2b7977c1c438dc416427dd2d8755e5016131ab739f7"
+
+# Zoom
+[[mods]]
+id = "zoom"
+version = "2.0.0"
+sha256 = "49fa2d7d635225c53304fbf1477606c0677eb23d94dac75b730f6c3ba065f127"
