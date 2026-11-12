@@ -1,8 +1,8 @@
 format = 1
 id = "atomic_industry"
 name = "Atomic Industry"
-version = "1.0.0"
-description = "Nuclear bombs, deep quarries, factories and wayfarer stones, with JEI, Jade and quality-of-life mods."
+version = "1.1.0"
+description = "Nuclear bombs, orbital strikes, deep quarries, factories, gems and wayfarer stones, with JEI, Jade, schematics and quality-of-life mods."
 authors = ["bioneisme"]
 game = "26.3"
 
@@ -23,6 +23,12 @@ sha256 = "520ad2ca64d2d4a0711a56f538074be64ab9a19337dae018bfee625e8672e43b"
 id = "projecte"
 version = "0.1.0"
 sha256 = "da08dffc1d021463e43576db233bc79e943aaf4e76a8a1ea37b66aa8ebab883f"
+
+# Silent's Gems
+[[mods]]
+id = "silentgems"
+version = "5.2.0"
+sha256 = "cd47ec932c984e81ce5b9450a65eeec8ac3b3c48206cc468a63d9979eee0343b"
 
 # Voltz (assets)
 [[mods]]
@@ -72,6 +78,12 @@ id = "deepbore_quarry_native"
 version = "0.1.2"
 sha256 = "41865d8459e679b23d3e71fa05f149ddc429dacac057fb350608ce526a486c17"
 
+# Better Dynamic Lights
+[[mods]]
+id = "dynamiclights"
+version = "1.0.3"
+sha256 = "bfc3e95726255b34e19aa98a239281149bdc5824abbf5d33b4f67fe865652168"
+
 # Eating Animation
 [[mods]]
 id = "eatinganimation"
@@ -89,6 +101,12 @@ sha256 = "bedb670e2490ce8239906c86eabd3a0c131ef5037b2937607231bdbdba38c171"
 id = "horizon_physics"
 version = "0.20.7"
 sha256 = "8eeba82ac0e7755298269fd328679473720a9894cfe10df5c8e3aaf88f59c34c"
+
+# Horizonmatica
+[[mods]]
+id = "horizonmatica"
+version = "0.3.2"
+sha256 = "c73b7909541fdc8f2c1127323cb8df30f5e186e46f7c5a672fe5c9b8b8dbdfe1"
 
 # InventoryWizard
 [[mods]]
@@ -119,6 +137,12 @@ sha256 = "5fef518e6ce7417944ab2621711be013cf7e25fdd6d3b25922876e78f090bfa3"
 id = "mousetricks"
 version = "0.2.0"
 sha256 = "48c60955371963f8e320a9efbe8285bb276d255c29178a8a021e7e2b47535cbe"
+
+# Orbital Laser
+[[mods]]
+id = "orbital"
+version = "0.5.10"
+sha256 = "f860b61f2c54cc4efd6e6373054858768b0fd829afc0b59c60893a556ef4da63"
 
 # ProjectE for Horizon
 [[mods]]
